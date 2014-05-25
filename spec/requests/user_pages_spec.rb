@@ -8,5 +8,7 @@ describe "User Pages" do
 
 		it { should have_content('Sign up') }
 		it { should have_title("Ruby on Rails Tutorial Sample App | Sign up") }
+		
+
 	end
 end
